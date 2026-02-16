@@ -1,3 +1,784 @@
 {
-    "15/02/2026": []
+    "15/02/2026": [
+        {
+            "word": "appoint",
+            "synonym": "assign",
+            "definition": "to officially choose someone for a position or responsibility",
+            "example": "The board appointed a new director to oversee the expansion project."
+        },
+        {
+            "word": "run against",
+            "synonym": "compete against",
+            "definition": "to compete with someone in an election or contest",
+            "example": "He plans to run against the incumbent senator in the next election."
+        },
+        {
+            "word": "praise",
+            "synonym": "commend",
+            "definition": "to express approval or admiration for someone’s actions or qualities",
+            "example": "The coach praised the team for their discipline and teamwork."
+        },
+        {
+            "word": "leverage",
+            "synonym": "utilize strategically",
+            "definition": "to use something effectively in order to gain an advantage",
+            "example": "She leveraged her experience to secure a leadership role in the company."
+        },
+        {
+            "word": "soulless",
+            "synonym": "spiritless",
+            "definition": "lacking human warmth, emotion, or moral sensitivity",
+            "example": "The factory town felt soulless, with identical buildings stretching for miles."
+        },
+        {
+            "word": "apt",
+            "synonym": "appropriate",
+            "definition": "suitable or fitting in a particular situation",
+            "example": "Her comment was an apt description of the chaotic meeting."
+        },
+        {
+            "word": "materialism",
+            "synonym": "consumerism",
+            "definition": "a value system focused on acquiring wealth and physical possessions",
+            "example": "The documentary criticized modern materialism and its impact on mental health."
+        },
+        {
+            "word": "set",
+            "synonym": "situated",
+            "definition": "located or taking place in a particular time or setting",
+            "example": "The film is set in a small coastal village during the 1950s."
+        },
+        {
+            "word": "industrialization",
+            "synonym": "mechanization",
+            "definition": "the development of industries on a wide scale in a country or region",
+            "example": "Industrialization transformed rural communities into urban centers."
+        },
+        {
+            "word": "greed",
+            "synonym": "avarice",
+            "definition": "an intense and selfish desire for wealth or power",
+            "example": "His greed ultimately led to the collapse of the company."
+        },
+        {
+            "word": "disparity",
+            "synonym": "inequality",
+            "definition": "a significant difference between two or more things",
+            "example": "There is a growing disparity between urban and rural incomes."
+        },
+        {
+            "word": "cubist",
+            "synonym": "geometric",
+            "definition": "relating to Cubism, an art style that represents subjects using abstract geometric forms",
+            "example": "The cubist portrait fragmented the face into sharp, angular shapes."
+        },
+        {
+            "word": "scorn",
+            "synonym": "contempt",
+            "definition": "a strong feeling of disrespect or disdain",
+            "example": "The proposal was met with scorn by traditional critics."
+        },
+        {
+            "word": "canon",
+            "synonym": "established collection",
+            "definition": "a body of works that are officially recognized as important or authoritative in a field",
+            "example": "Shakespeare’s plays are central to the literary canon."
+        },
+        {
+            "word": "beam",
+            "synonym": "supporting bar",
+            "definition": "a long, sturdy piece of wood or metal used to support weight in a structure",
+            "example": "Steel beams were installed to reinforce the ceiling."
+        },
+        {
+            "word": "falsework",
+            "synonym": "temporary framework",
+            "definition": "a temporary support structure used during the construction of buildings or bridges",
+            "example": "The falsework was dismantled once the concrete had fully hardened."
+        },
+        {
+            "word": "lunar phase",
+            "synonym": "moon phase",
+            "definition": "a stage in the cycle of changes in the appearance of the moon as seen from Earth",
+            "example": "During the new lunar phase, the moon is not visible in the night sky."
+        },
+        {
+            "word": "following",
+            "synonym": "after",
+            "definition": "coming after or as a result of",
+            "example": "Following the meeting, we went out for coffee."
+        },
+        {
+            "word": "convene",
+            "synonym": "gather",
+            "definition": "to bring together for a meeting or assembly",
+            "example": "The board convened to discuss the new budget proposal."
+        },
+        {
+            "word": "in the proceedings of",
+            "synonym": "during the events of",
+            "definition": "participating or taking part in official activities or meetings",
+            "example": "She spoke in the proceedings of the international conference."
+        },
+        {
+            "word": "serve",
+            "synonym": "participate",
+            "definition": "to perform duties or take an official role",
+            "example": "He served on the committee for three years."
+        },
+        {
+            "word": "advocate",
+            "synonym": "promote",
+            "definition": "to publicly support or recommend a cause or policy",
+            "example": "She advocates for environmental conservation."
+        },
+        {
+            "word": "threefold",
+            "synonym": "triple",
+            "definition": "having three parts or aspects",
+            "example": "The plan has a threefold objective: reduce costs, improve efficiency, and increase satisfaction."
+        },
+        {
+            "word": "photorealistic",
+            "synonym": "hyperrealistic",
+            "definition": "an art style that depicts subjects in extremely realistic detail",
+            "example": "The artist’s photorealistic painting of the city street looked like a photograph."
+        },
+        {
+            "word": "float",
+            "synonym": "drift",
+            "definition": "to rest or move on the surface of a liquid without sinking",
+            "example": "Leaves float on the surface of the pond."
+        },
+        {
+            "word": "logical",
+            "synonym": "reasonable",
+            "definition": "sensible and based on clear reasoning",
+            "example": "It was logical to bring an umbrella because it looked like rain."
+        },
+        {
+            "word": "book cover",
+            "synonym": "cover art",
+            "definition": "the protective front of a book, often with artwork or text",
+            "example": "The illustrator designed a bright and engaging book cover for the new novel."
+        },
+        {
+            "word": "perimeter",
+            "synonym": "boundary",
+            "definition": "the outer edge or boundary of an area",
+            "example": "The security cameras were installed around the perimeter of the building."
+        },
+        {
+            "word": "livestock",
+            "synonym": "farm animals",
+            "definition": "domesticated animals raised on a farm, such as cows, sheep, or goats",
+            "example": "The farmer checks on the livestock every morning."
+        },
+        {
+            "word": "pasture",
+            "synonym": "grazing land",
+            "definition": "land covered with grass that animals feed on",
+            "example": "The cows were grazing in the lush pasture."
+        },
+        {
+            "word": "blinking",
+            "synonym": "flashing",
+            "definition": "turning on and off repeatedly in a regular pattern",
+            "example": "The blinking lights warned drivers of the road construction ahead."
+        },
+        {
+            "word": "handmade",
+            "synonym": "crafted",
+            "definition": "made by hand rather than by machine",
+            "example": "The artisan sold handmade pottery at the local market."
+        },
+        {
+            "word": "curve",
+            "synonym": "bend",
+            "definition": "a smoothly bending line or surface",
+            "example": "The road followed the curve of the river."
+        },
+        {
+            "word": "orb-weaver",
+            "synonym": "web-spinning spider",
+            "definition": "a type of spider that spins circular, wheel-shaped webs",
+            "example": "The garden was full of orb-weaver spiders in the morning light."
+        },
+        {
+            "word": "rather",
+            "synonym": "instead",
+            "definition": "used to introduce a contrast or correction",
+            "example": "He didn’t complain, rather, he offered a solution."
+        },
+        {
+            "word": "conspicuously",
+            "synonym": "noticeably",
+            "definition": "in a way that is clearly visible or attracts attention",
+            "example": "The bright sign was conspicuously displayed in the window."
+        },
+        {
+            "word": "distinctive",
+            "synonym": "unique",
+            "definition": "clearly different or special, easy to recognize",
+            "example": "Her distinctive handwriting made the letter immediately recognizable."
+        },
+        {
+            "word": "coloration",
+            "synonym": "hue",
+            "definition": "the colors or patterns of an animal or object",
+            "example": "The bird’s vivid coloration helped it attract a mate."
+        },
+        {
+            "word": "appeal",
+            "synonym": "attraction",
+            "definition": "the quality of being interesting or attractive",
+            "example": "The novel’s appeal lies in its complex characters and plot."
+        },
+        {
+            "word": "beloved",
+            "synonym": "adored",
+            "definition": "deeply loved or liked by many people",
+            "example": "She was one of the most beloved singers in the country."
+        },
+        {
+            "word": "repertoire",
+            "synonym": "collection",
+            "definition": "a stock of skills, techniques, or pieces that a person or group is prepared to perform or use",
+            "example": "Her broad singing repertoire included both traditional and modern styles."
+        },
+        {
+            "word": "lend",
+            "synonym": "impart",
+            "definition": "to give or add (a quality, feeling, etc.) to something",
+            "example": "The diverse styles lent Fairuz a timeless appeal."
+        },
+        {
+            "word": "timeless",
+            "synonym": "everlasting",
+            "definition": "not affected by the passage of time or changes in fashion",
+            "example": "Her music has a timeless quality that appeals to all generations."
+        },
+        {
+            "word": "cross-generational",
+            "synonym": "intergenerational",
+            "definition": "appealing to or involving people from different age groups or generations",
+            "example": "The song achieved cross-generational success."
+        },
+        {
+            "word": "moniker",
+            "synonym": "nickname",
+            "definition": "a name or nickname, especially an informal or humorous one",
+            "example": "She earned the moniker 'the soul of Lebanon'."
+        },
+        {
+            "word": "ascend",
+            "synonym": "mount",
+            "definition": "to go up or climb (especially to a throne or high position)",
+            "example": "The new leader will ascend to power after the election."
+        },
+        {
+            "word": "longhorn",
+            "synonym": "Texas longhorn",
+            "definition": "a breed of cattle with very long horns, originally from Spain and brought to the Americas",
+            "example": "Ranchers in the Southwest often raise longhorn for their hardiness."
+        },
+        {
+            "word": "cattle",
+            "synonym": "livestock",
+            "definition": "cows, bulls, or steers kept on a farm or ranch for meat or milk",
+            "example": "The farmer sold most of his cattle at the market last week."
+        },
+        {
+            "word": "herd",
+            "synonym": "flock",
+            "definition": "a large group of animals, especially cattle, sheep, or similar grazing animals, that stay or move together",
+            "example": "A large herd of buffalo crossed the plain at sunset."
+        },
+        {
+            "word": "roam",
+            "synonym": "wander",
+            "definition": "to move about or travel aimlessly or unsystematically, especially over a wide area",
+            "example": "The children like to roam around the park after school."
+        },
+        {
+            "word": "terrain",
+            "synonym": "landscape",
+            "definition": "a stretch of land, especially with regard to its physical features or suitability for some use",
+            "example": "The hikers prepared for rough mountainous terrain ahead."
+        },
+        {
+            "word": "hominin",
+            "synonym": "hominid",
+            "definition": "any member of the group consisting of modern humans, extinct human species, and all immediate ancestors, including genera like Homo, Australopithecus, etc.",
+            "example": "Australopithecus is an early hominin species that lived millions of years ago."
+        },
+        {
+            "word": "mark",
+            "synonym": "scratch",
+            "definition": "a visible impression, line, or indentation made on a surface, often from contact, wear, or damage",
+            "example": "The tool left a deep mark on the wooden surface."
+        },
+        {
+            "word": "fossilized",
+            "synonym": "petrified",
+            "definition": "turned into a fossil through the replacement of organic material with minerals over long periods",
+            "example": "The fossilized shell was millions of years old."
+        },
+        {
+            "word": "plaque",
+            "synonym": "tartar",
+            "definition": "a sticky film of bacteria that forms on teeth; when hardened, it becomes dental calculus",
+            "example": "Regular brushing helps prevent the buildup of plaque on teeth."
+        },
+        {
+            "word": "dental",
+            "synonym": "oral",
+            "definition": "relating to the teeth or dentistry",
+            "example": "She visited the clinic for a routine dental checkup."
+        },
+        {
+            "word": "quilt",
+            "synonym": "comforter",
+            "definition": "a warm bed covering made of two layers of cloth with soft material (such as cotton or wool) in between, held in place by lines of stitching",
+            "example": "She wrapped herself in a thick quilt during the cold winter night."
+        },
+        {
+            "word": "open-ended",
+            "synonym": "unrestricted",
+            "definition": "allowing a person to decide or choose freely; not having fixed limits or conclusions",
+            "example": "The teacher gave the students an open-ended assignment to encourage creativity."
+        },
+        {
+            "word": "panel",
+            "synonym": "section",
+            "definition": "a flat, distinct piece or part of a larger surface, structure, or work (such as in art, clothing, or writing)",
+            "example": "The comic book page was divided into six colorful panels."
+        },
+        {
+            "word": "stitch",
+            "synonym": "sew",
+            "definition": "to join or decorate with loops of thread or yarn passed through fabric or material with a needle",
+            "example": "She had to stitch the tear in her jacket before wearing it again."
+        },
+        {
+            "word": "eight-pointed",
+            "synonym": "octagram",
+            "definition": "having eight points or rays extending outward from a center, often in a star shape",
+            "example": "The design featured an elegant eight-pointed star in the center."
+        },
+        {
+            "word": "seemingly",
+            "synonym": "apparently",
+            "definition": "appearing to be true or the case based on what can be observed, but not necessarily certain",
+            "example": "He was seemingly calm, but his hands were shaking slightly."
+        },
+        {
+            "word": "infinite",
+            "synonym": "endless",
+            "definition": "having no limits or end; extremely large or great in amount or degree",
+            "example": "The night sky appears to hold an infinite number of stars."
+        },
+        {
+            "word": "body",
+            "synonym": "body of water",
+            "definition": "a mass or collection of water, such as a lake, pond, or sea",
+            "example": "The calm body reflected the mountains perfectly at sunrise."
+        },
+        {
+            "word": "restrictive",
+            "synonym": "limiting",
+            "definition": "imposing limits or restrictions; tending to restrict freedom or options",
+            "example": "The school's dress code was quite restrictive about hair colors."
+        },
+        {
+            "word": "critical",
+            "synonym": "crucial",
+            "definition": "of decisive importance; essential or very important to the success or outcome of something",
+            "example": "The first few months are a critical time for a baby's language development."
+        },
+        {
+            "word": "socialization",
+            "synonym": "social development",
+            "definition": "the process by which individuals learn and adopt the norms, values, and behaviors of their society or group",
+            "example": "Proper socialization helps children learn how to interact with others."
+        },
+        {
+            "word": "relative",
+            "synonym": "comparative",
+            "definition": "considered in relation or comparison to something else (often implying degree or proportion)",
+            "example": "The cost is high in absolute terms but low relative to income."
+        },
+        {
+            "word": "wary",
+            "synonym": "cautious",
+            "definition": "feeling or showing caution about possible dangers or problems; not easily trusting",
+            "example": "She was wary of strangers offering help late at night."
+        },
+        {
+            "word": "exploratory",
+            "synonym": "adventurous",
+            "definition": "involving or done to investigate or learn about something new; inclined to explore",
+            "example": "The children were very exploratory and loved discovering hidden paths in the forest."
+        },
+        {
+            "word": "civic",
+            "synonym": "municipal",
+            "definition": "relating to a city or town, especially its government, citizens, or public affairs",
+            "example": "She was active in many civic organizations that improved the neighborhood."
+        },
+        {
+            "word": "priority",
+            "synonym": "focus",
+            "definition": "something that is regarded as more important than other matters and comes first in order of importance",
+            "example": "Safety is always the top priority when planning a construction project."
+        },
+        {
+            "word": "pride",
+            "synonym": "dignity",
+            "definition": "a feeling of deep pleasure or satisfaction derived from one's own achievements, qualities, or possessions (or those of someone/something associated with oneself)",
+            "example": "Winning the championship filled the team with great pride."
+        },
+        {
+            "word": "generalization",
+            "synonym": "broad statement",
+            "definition": "a statement or conclusion drawn from a limited number of cases that is applied more widely",
+            "example": "The generalization that all teenagers are lazy does not hold true for everyone."
+        },
+        {
+            "word": "greasy",
+            "synonym": "oily",
+            "definition": "covered with or containing too much oil or fat",
+            "example": "He wiped his greasy hands on a napkin after eating fries."
+        },
+        {
+            "word": "contaminate",
+            "synonym": "pollute",
+            "definition": "to make something impure or unsafe by adding harmful or unwanted substances",
+            "example": "Chemicals from the factory can contaminate nearby rivers."
+        },
+        {
+            "word": "render",
+            "synonym": "make",
+            "definition": "to cause something to be or become in a particular state or condition",
+            "example": "The storm rendered the roads impassable for days."
+        },
+        {
+            "word": "batch",
+            "synonym": "lot",
+            "definition": "a group of things processed or produced together at one time",
+            "example": "The bakery made a fresh batch of cookies every morning."
+        },
+        {
+            "word": "machinery",
+            "synonym": "equipment",
+            "definition": "machines collectively, especially in a factory or industrial setting",
+            "example": "The factory invested in new machinery to increase production speed."
+        },
+        {
+            "word": "fittingly",
+            "synonym": "appropriately",
+            "definition": "in a way that is suitable or right for the situation",
+            "example": "The award was fittingly presented to the team's most dedicated member."
+        },
+        {
+            "word": "strip",
+            "synonym": "band",
+            "definition": "a long, narrow piece of material or land",
+            "example": "She tied the package with a strip of red ribbon."
+        },
+        {
+            "word": "sistrum",
+            "synonym": "rattle",
+            "definition": "an ancient Egyptian percussion instrument consisting of a metal hoop or frame with metal rods or rings that jingle when shaken",
+            "example": "The museum displayed a beautifully crafted bronze sistrum from ancient times."
+        },
+        {
+            "word": "priestess",
+            "synonym": "temple woman",
+            "definition": "a female priest, especially in ancient religions or pagan traditions",
+            "example": "The priestess led the ritual with calm authority."
+        },
+        {
+            "word": "agency",
+            "synonym": "autonomy",
+            "definition": "the capacity of individuals to act independently and make their own free choices",
+            "example": "The program empowers young people by giving them greater agency in decision-making."
+        },
+        {
+            "word": "quotation",
+            "synonym": "quote",
+            "definition": "a group of words taken from a text or speech and repeated by someone other than the original author or speaker",
+            "example": "The article began with a famous quotation from the poet."
+        },
+        {
+            "word": "foodway",
+            "synonym": "culinary tradition",
+            "definition": "the cultural, social, and economic practices surrounding the production, distribution, preparation, and consumption of food in a particular society or region",
+            "example": "Immigration often introduces new elements to a region's foodway."
+        },
+        {
+            "word": "radical",
+            "synonym": "dramatic",
+            "definition": "thorough or complete; involving fundamental or far-reaching change",
+            "example": "The invention led to a radical shift in how people communicated."
+        },
+        {
+            "word": "spiking",
+            "synonym": "surging",
+            "definition": "increasing suddenly and sharply (often used for demand, prices, or levels)",
+            "example": "There was a spiking interest in electric vehicles last year."
+        },
+        {
+            "word": "grain",
+            "synonym": "cereal",
+            "definition": "a small, hard seed harvested from cereal plants such as wheat, maize, rice, etc., used as food",
+            "example": "Farmers store grain in silos after the harvest."
+        },
+        {
+            "word": "fuel in large part",
+            "synonym": "driven largely",
+            "definition": "to provide the main energy or cause for something, to a significant degree",
+            "example": "The company's growth was fueled in large part by online sales."
+        },
+        {
+            "word": "maize",
+            "synonym": "corn",
+            "definition": "a tall cereal plant (Zea mays) cultivated for its large edible grains (kernels), especially in the Americas",
+            "example": "Maize is a staple crop in many tropical regions."
+        },
+        {
+            "word": "reconfigure",
+            "synonym": "restructure",
+            "definition": "to rearrange or redesign the way something is organized or arranged",
+            "example": "They had to reconfigure the office layout after the team expanded."
+        },
+        {
+            "word": "oriented",
+            "synonym": "focused",
+            "definition": "directed or adjusted toward a particular purpose, direction, or group",
+            "example": "The course is career-oriented and prepares students for jobs."
+        },
+        {
+            "word": "sandstone",
+            "synonym": "sedimentary rock",
+            "definition": "a sedimentary rock consisting of sand or quartz grains cemented together, typically in layers",
+            "example": "The ancient castle was built from durable golden sandstone."
+        },
+        {
+            "word": "arch",
+            "synonym": "curve",
+            "definition": "a curved structure that spans an opening and supports weight above it, often used in architecture or natural rock formations",
+            "example": "The bridge featured a graceful stone arch over the river."
+        },
+        {
+            "word": "deface",
+            "synonym": "vandalize",
+            "definition": "to spoil the surface or appearance of something by drawing, carving, or otherwise damaging it",
+            "example": "Someone tried to deface the statue with spray paint."
+        },
+        {
+            "word": "carving",
+            "synonym": "engraving",
+            "definition": "a shape or design cut into a hard material such as wood, stone, or rock",
+            "example": "The wooden box had intricate floral carving on the lid."
+        },
+        {
+            "word": "ranger",
+            "synonym": "park warden",
+            "definition": "an official responsible for the management and protection of a park, forest, or natural area",
+            "example": "The ranger guided visitors along the nature trail."
+        },
+        {
+            "word": "smooth away",
+            "synonym": "grind off",
+            "definition": "to remove or level out irregularities or marks by rubbing or abrading",
+            "example": "She used sandpaper to smooth away the rough edges of the wood."
+        },
+        {
+            "word": "power grinder",
+            "synonym": "electric sander",
+            "definition": "a powered tool with a rotating abrasive disc used for grinding, smoothing, or removing material from surfaces",
+            "example": "The worker used a power grinder to sharpen the metal blade."
+        },
+        {
+            "word": "feasible",
+            "synonym": "practical",
+            "definition": "possible to do easily or conveniently; capable of being achieved",
+            "example": "Building a new road through the mountains was not feasible due to cost."
+        },
+        {
+            "word": "infilling",
+            "synonym": "filling in",
+            "definition": "the process of filling a cavity, hole, or damaged area with material to restore the original surface or structure",
+            "example": "Infilling the cracks in the wall helped prevent further water damage."
+        },
+        {
+            "word": "bonding agent",
+            "synonym": "adhesive",
+            "definition": "a substance used to bind or join materials together, often by creating a strong chemical or physical connection",
+            "example": "The bonding agent ensured the tiles stayed firmly attached to the floor."
+        },
+        {
+            "word": "invasive",
+            "synonym": "intrusive",
+            "definition": "tending to intrude or encroach; (in conservation/restoration) involving significant alteration or disturbance to the original material or environment",
+            "example": "The surgeon chose the least invasive procedure to speed recovery."
+        },
+        {
+            "word": "hence",
+            "synonym": "therefore",
+            "definition": "for this reason; as a consequence of something previously mentioned",
+            "example": "The road was icy; hence, we decided to walk instead of drive."
+        },
+        {
+            "word": "admittedly",
+            "synonym": "granted",
+            "definition": "used to accept or concede that something is true or the case, often before introducing a contrasting point",
+            "example": "Admittedly, the plan is expensive, but it will save money in the long run."
+        },
+        {
+            "word": "supernova",
+            "synonym": "exploding star",
+            "definition": "a stellar explosion that briefly outshines an entire galaxy, occurring when a massive star reaches the end of its life or a white dwarf accumulates too much mass",
+            "example": "Astronomers observed a bright supernova in a distant galaxy last year."
+        },
+        {
+            "word": "bubble",
+            "synonym": "cavity",
+            "definition": "a rounded space or region within a larger medium, often filled with gas or vacuum, created by pressure or explosion",
+            "example": "The children enjoyed watching the soap bubble float in the air."
+        },
+        {
+            "word": "trap",
+            "synonym": "capture",
+            "definition": "to catch or hold something in a confined space or position, preventing escape or movement",
+            "example": "The net was set to trap small fish near the shore."
+        },
+        {
+            "word": "interstellar",
+            "synonym": "between stars",
+            "definition": "occurring or situated between stars in space",
+            "example": "Interstellar travel remains a dream for future generations."
+        },
+        {
+            "word": "enlist",
+            "synonym": "recruit",
+            "definition": "to engage or secure the help, support, or services of someone for a particular purpose",
+            "example": "The team decided to enlist a professional designer for the project."
+        },
+        {
+            "word": "crossbreed",
+            "synonym": "hybridize",
+            "definition": "to produce offspring or a new variety by breeding individuals from two different species, varieties, or breeds",
+            "example": "Farmers often crossbreed different types of roses to create new colors."
+        },
+        {
+            "word": "hybrid",
+            "synonym": "cross",
+            "definition": "the offspring or result of crossing two different species, varieties, or breeds; something that combines elements from different sources",
+            "example": "The new car model is a hybrid of electric and gasoline technology."
+        },
+        {
+            "word": "peninsula",
+            "synonym": "land projection",
+            "definition": "a piece of land that is almost completely surrounded by water but connected to a larger landmass on one side",
+            "example": "Florida is a large peninsula in the southeastern United States."
+        },
+        {
+            "word": "fictional",
+            "synonym": "imaginary",
+            "definition": "not real; invented or existing only in stories, literature, or the imagination",
+            "example": "The characters in the book are entirely fictional and not based on real people."
+        },
+        {
+            "word": "misconception",
+            "synonym": "misunderstanding",
+            "definition": "a mistaken belief or incorrect view about something, often based on faulty information or assumptions",
+            "example": "A common misconception is that bats are blind."
+        },
+        {
+            "word": "gold rush era",
+            "synonym": "gold fever period",
+            "definition": "a historical time of mass migration and economic boom triggered by the discovery of gold in a region, especially the California Gold Rush of 1848–1855",
+            "example": "Many people left their homes during the gold rush era to seek fortune in new territories."
+        },
+        {
+            "word": "challenge",
+            "synonym": "contest",
+            "definition": "to dispute the validity or justice of something; to take action against perceived unfairness or discrimination",
+            "example": "She decided to challenge the unfair rule by filing a formal complaint."
+        },
+        {
+            "word": "suit",
+            "synonym": "lawsuit",
+            "definition": "a legal action or proceeding brought before a court to enforce a right, resolve a dispute, or seek compensation",
+            "example": "The company settled the suit out of court to avoid a long trial."
+        },
+        {
+            "word": "declare",
+            "synonym": "proclaim",
+            "definition": "to state or announce something officially or formally, especially in a legal or authoritative context",
+            "example": "The judge will declare the winner after reviewing all the evidence."
+        },
+        {
+            "word": "carrier",
+            "synonym": "transporter",
+            "definition": "a person or company that transports people or goods for hire, especially common carriers such as buses, trains, or streetcars that serve the public",
+            "example": "The airline is a major carrier for international flights."
+        },
+        {
+            "word": "theorize",
+            "synonym": "hypothesize",
+            "definition": "to form a theory or set of theories about something, especially based on limited evidence or as a starting point for further investigation",
+            "example": "Scientists theorize that the universe began with a massive explosion billions of years ago."
+        },
+        {
+            "word": "landmass",
+            "synonym": "continent",
+            "definition": "a large, continuous area of land, such as a continent or a major part of one",
+            "example": "Australia is both a country and the smallest landmass classified as a continent."
+        },
+        {
+            "word": "firsthand",
+            "synonym": "directly",
+            "definition": "from or based on personal experience or observation rather than reports from others",
+            "example": "She learned about mountain climbing firsthand during her expedition."
+        },
+        {
+            "word": "color-saturated",
+            "synonym": "vividly colored",
+            "definition": "filled or dominated by intense, rich, or bright colors; having high color intensity",
+            "example": "The artist's color-saturated landscapes immediately caught the viewer's eye."
+        },
+        {
+            "word": "modernist master",
+            "synonym": "avant-garde genius",
+            "definition": "a highly influential and skilled artist belonging to the modernist movement (roughly late 19th to mid-20th century), known for breaking with traditional forms and experimenting with new styles",
+            "example": "Many students studied under a modernist master to understand abstract techniques."
+        },
+        {
+            "word": "make a name for somebody as",
+            "synonym": "establish a reputation as",
+            "definition": "to become well-known or recognized for a particular skill, talent, or achievement",
+            "example": "After several successful exhibitions, she began to make a name for herself as a sculptor."
+        },
+        {
+            "word": "voice",
+            "synonym": "express",
+            "definition": "to express an opinion, support, or feeling publicly or clearly",
+            "example": "The students decided to voice their concerns about the new policy at the meeting."
+        },
+        {
+            "word": "revolt",
+            "synonym": "uprising",
+            "definition": "an organized and often violent attempt by a large group of people to overthrow a government or ruler",
+            "example": "The revolt against the king spread quickly across the countryside."
+        },
+        {
+            "word": "authoritarian",
+            "synonym": "dictatorial",
+            "definition": "favoring or enforcing strict obedience to authority at the expense of personal freedom; characteristic of a ruler or system with absolute power",
+            "example": "The authoritarian regime restricted freedom of speech and assembly."
+        }
+    ]
 }
