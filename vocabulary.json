@@ -780,5 +780,331 @@
             "definition": "favoring or enforcing strict obedience to authority at the expense of personal freedom; characteristic of a ruler or system with absolute power",
             "example": "The authoritarian regime restricted freedom of speech and assembly."
         }
+    ],
+    "02/22/2026": [
+        {
+            "word": "cellular material",
+            "synonym": "biological matter",
+            "definition": "substance originating from cells of a living organism",
+            "example": "Scientists examined the cellular material under a microscope."
+        },
+        {
+            "word": "shed",
+            "synonym": "discard",
+            "definition": "to release or let fall off naturally",
+            "example": "Many animals shed their fur during seasonal changes."
+        },
+        {
+            "word": "constrictor",
+            "synonym": "coiling snake",
+            "definition": "a snake that kills prey by wrapping around it and squeezing",
+            "example": "The constrictor captured its prey by tightening its coils."
+        },
+        {
+            "word": "interweave",
+            "synonym": "intertwine",
+            "definition": "to combine or blend elements together so they are closely connected",
+            "example": "The documentary interweaves interviews with historical footage."
+        },
+        {
+            "word": "titular",
+            "synonym": "eponymous",
+            "definition": "having the same name as the title of a work",
+            "example": "The titular hero appears in the opening scene of the novel."
+        },
+        {
+            "word": "narrative",
+            "synonym": "storyline",
+            "definition": "a spoken or written account of connected events",
+            "example": "The film follows a nonlinear narrative."
+        },
+        {
+            "word": "place (in context)",
+            "synonym": "situate",
+            "definition": "to position something within a particular setting or framework",
+            "example": "The historian places the discovery within a broader political framework."
+        },
+        {
+            "word": "the context of",
+            "synonym": "within the framework of",
+            "definition": "in relation to the surrounding circumstances or background conditions",
+            "example": "The speech must be understood in the context of the economic crisis."
+        },
+        {
+            "word": "set events from ... against",
+            "synonym": "juxtapose",
+            "definition": "to present events in contrast or comparison with a particular background",
+            "example": "The director set the character’s struggles against a war-torn landscape."
+        },
+        {
+            "word": "backdrop",
+            "synonym": "background",
+            "definition": "the setting or underlying situation in which events occur",
+            "example": "The negotiations took place against the backdrop of political tension."
+        },
+        {
+            "word": "woodworker",
+            "synonym": "carpenter",
+            "definition": "a person who makes objects or structures from wood",
+            "example": "The skilled woodworker crafted a custom dining table."
+        },
+        {
+            "word": "rocking chair",
+            "synonym": "glider chair",
+            "definition": "a chair with curved supports that allow it to rock back and forth",
+            "example": "She sat in the rocking chair by the fireplace."
+        },
+        {
+            "word": "armrest",
+            "synonym": "arm support",
+            "definition": "a part of a chair designed to support a person's arms",
+            "example": "The chair’s armrest was padded for comfort."
+        },
+        {
+            "word": "sleek",
+            "synonym": "smooth",
+            "definition": "having a smooth, polished, and elegant appearance",
+            "example": "The car has a sleek and modern design."
+        },
+        {
+            "word": "contoured",
+            "synonym": "shaped",
+            "definition": "designed with curves that fit the natural shape of something",
+            "example": "The seat was contoured to provide better support."
+        },
+        {
+            "word": "spindle-like",
+            "synonym": "rod-shaped",
+            "definition": "resembling a thin, rounded rod or stick",
+            "example": "The railing featured spindle-like supports."
+        },
+        {
+            "word": "slat",
+            "synonym": "strip",
+            "definition": "a thin, narrow piece of wood or other material",
+            "example": "The bench was constructed from wooden slats."
+        },
+        {
+            "word": "dispersal",
+            "synonym": "spread",
+            "definition": "the movement or distribution of organisms from one location to another",
+            "example": "Wind plays a major role in the dispersal of plant seeds."
+        },
+        {
+            "word": "count (oneself among)",
+            "synonym": "consider",
+            "definition": "to regard oneself as belonging to a particular group",
+            "example": "She counts herself among the supporters of the new policy."
+        },
+        {
+            "word": "temperate environment",
+            "synonym": "moderate climate",
+            "definition": "a region characterized by mild temperatures without extreme heat or cold",
+            "example": "Many deciduous trees thrive in a temperate environment."
+        },
+        {
+            "word": "engineered structures",
+            "synonym": "designed constructions",
+            "definition": "structures that are intentionally designed and built to achieve specific mechanical or functional properties",
+            "example": "Bridges are engineered structures built to support heavy loads."
+        },
+        {
+            "word": "uniquely",
+            "synonym": "distinctively",
+            "definition": "in a way that is unlike anything else; in a singular manner",
+            "example": "The device is uniquely designed to operate in extreme conditions."
+        },
+        {
+            "word": "cohesive",
+            "synonym": "unified",
+            "definition": "forming a united and well-integrated whole",
+            "example": "The team presented a cohesive plan for the project."
+        },
+        {
+            "word": "simulate",
+            "synonym": "imitate",
+            "definition": "to create a model or representation that reproduces the behavior or characteristics of something",
+            "example": "Engineers simulate weather conditions in laboratory experiments."
+        },
+        {
+            "word": "stiff",
+            "synonym": "rigid",
+            "definition": "resistant to bending or deformation",
+            "example": "The material becomes stiff when exposed to cold temperatures."
+        },
+        {
+            "word": "contact point",
+            "synonym": "point of intersection",
+            "definition": "a location at which two objects physically touch each other",
+            "example": "The stability of the structure depends on each contact point between components."
+        },
+        {
+            "word": "derived",
+            "synonym": "obtained",
+            "definition": "acquired or developed from a particular source",
+            "example": "The formula was derived from earlier scientific research."
+        },
+        {
+            "word": "to that end",
+            "synonym": "for that purpose",
+            "definition": "with the intention of achieving a particular goal",
+            "example": "The company increased production; to that end, it hired more workers."
+        },
+        {
+            "word": "granted",
+            "synonym": "admittedly",
+            "definition": "used to acknowledge a point while introducing a contrasting idea",
+            "example": "Granted, the task was difficult, but it was not impossible."
+        },
+        {
+            "word": "spur",
+            "synonym": "stimulate",
+            "definition": "to encourage or prompt an action or development",
+            "example": "The discovery spurred further scientific investigation."
+        },
+        {
+            "word": "geodetic",
+            "synonym": "earth-measurement related",
+            "definition": "relating to the science of measuring and understanding Earth's geometric shape and gravitational field",
+            "example": "Geodetic surveys are used to create accurate maps."
+        },
+        {
+            "word": "orbit",
+            "synonym": "revolve around",
+            "definition": "to move in a curved path around a celestial object due to gravity",
+            "example": "The Earth orbits the Sun once every 365 days."
+        },
+        {
+            "word": "in exile",
+            "synonym": "banished",
+            "definition": "living away from one's home country, often for political reasons",
+            "example": "The writer lived in exile after criticizing the government."
+        },
+        {
+            "word": "pen",
+            "synonym": "write",
+            "definition": "to write something, especially in a formal or careful way",
+            "example": "She penned a heartfelt letter to her mentor."
+        },
+        {
+            "word": "address",
+            "synonym": "direct",
+            "definition": "to write or speak to someone formally",
+            "example": "He addressed his speech to the members of the assembly."
+        },
+        {
+            "word": "tag",
+            "synonym": "label",
+            "definition": "a keyword or descriptor attached to data to provide information about its content",
+            "example": "Songs in the database were tagged with their genre, tempo, and mood."
+        },
+        {
+            "word": "code",
+            "synonym": "set of laws",
+            "definition": "a systematic collection of laws or rules",
+            "example": "The Code of Hammurabi is one of the earliest known sets of laws."
+        },
+        {
+            "word": "oversee",
+            "synonym": "supervise",
+            "definition": "to manage or be in charge of a project, process, or operation",
+            "example": "She oversees the daily operations of the museum."
+        },
+        {
+            "word": "crisp",
+            "synonym": "clear",
+            "definition": "concise and effective in style or expression",
+            "example": "The essay is written in a crisp and engaging style."
+        },
+        {
+            "word": "spare",
+            "synonym": "minimal",
+            "definition": "using only what is necessary; simple and uncluttered",
+            "example": "The poet's spare language creates a vivid image with few words."
+        },
+        {
+            "word": "earn praise",
+            "synonym": "receive acclaim",
+            "definition": "to gain approval or admiration from others",
+            "example": "Her innovative research earned praise from scientists worldwide."
+        },
+        {
+            "word": "luminous",
+            "synonym": "radiant",
+            "definition": "emitting or reflecting light; shining; clear and enlightening",
+            "example": "The poem's luminous imagery left a lasting impression on readers."
+        },
+        {
+            "word": "supplier",
+            "synonym": "provider",
+            "definition": "a person or company that provides goods or services",
+            "example": "The city has multiple electricity suppliers."
+        },
+        {
+            "word": "municipality",
+            "synonym": "local government area",
+            "definition": "a city or town that has corporate status and local government",
+            "example": "Each municipality is responsible for maintaining its own water system."
+        },
+        {
+            "word": "natural monopoly",
+            "synonym": "regulated monopoly",
+            "definition": "an industry in which high start-up costs and barriers to entry make a single supplier more efficient than multiple competing ones",
+            "example": "Electricity distribution is often considered a natural monopoly."
+        },
+        {
+            "word": "host plant",
+            "synonym": "carrier plant",
+            "definition": "a plant in which another organism, such as a fungus or parasite, lives or grows",
+            "example": "The fungus thrives inside its host plant without immediately killing it."
+        },
+        {
+            "word": "viable",
+            "synonym": "practical",
+            "definition": "capable of working successfully or being effective",
+            "example": "The team proposed a viable alternative to chemical fertilizers."
+        },
+        {
+            "word": "herbicide",
+            "synonym": "weed killer",
+            "definition": "a chemical used to kill or inhibit the growth of unwanted plants",
+            "example": "Farmers applied an herbicide to control weeds in the field."
+        },
+        {
+            "word": "weed",
+            "synonym": "undesirable plant",
+            "definition": "a plant considered undesirable, troublesome, or invasive",
+            "example": "Gardeners removed weeds to prevent them from taking nutrients from other plants."
+        },
+        {
+            "word": "embed",
+            "synonym": "insert",
+            "definition": "to fix something firmly and deeply in a surrounding mass or structure",
+            "example": "The tiny moons are embedded within Saturn's rings."
+        },
+        {
+            "word": "buildup",
+            "synonym": "accumulation",
+            "definition": "the gradual collection or increase of material or substance",
+            "example": "The buildup of sediment can change the shape of riverbanks."
+        },
+        {
+            "word": "spectacular",
+            "synonym": "striking",
+            "definition": "visually impressive or dramatic",
+            "example": "The fireworks display was truly spectacular."
+        },
+        {
+            "word": "lightning storm",
+            "synonym": "thunderstorm",
+            "definition": "a weather event involving electrical discharges (lightning) and typically thunder",
+            "example": "The lightning storm lit up the night sky."
+        },
+        {
+            "word": "localized",
+            "synonym": "limited to a specific area",
+            "definition": "confined or restricted to a particular place",
+            "example": "The localized flooding affected only a few streets."
+        }
     ]
 }
