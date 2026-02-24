@@ -1105,6 +1105,186 @@
             "synonym": "limited to a specific area",
             "definition": "confined or restricted to a particular place",
             "example": "The localized flooding affected only a few streets."
+        },
+        {
+            "word": "ratio",
+            "synonym": "proportion",
+            "definition": "a relationship between two quantities showing how many times one value contains or is contained within the other",
+            "example": "The ratio of choruses to verses increased over time."
+        },
+        {
+            "word": "chorus",
+            "synonym": "refrain",
+            "definition": "the repeated part of a song that usually contains the main message",
+            "example": "The chorus is repeated several times in the song."
+        },
+        {
+            "word": "verse",
+            "synonym": "stanza",
+            "definition": "a section of a song with different lyrics that usually tells part of the story",
+            "example": "Each verse adds new details to the song."
+        },
+        {
+            "word": "trend",
+            "synonym": "pattern",
+            "definition": "a general direction in which something is developing or changing",
+            "example": "There is a growing trend toward shorter songs."
+        },
+        {
+            "word": "repetitive",
+            "synonym": "redundant",
+            "definition": "containing repeated elements or happening again and again in the same way",
+            "example": "Some critics argue that modern lyrics are too repetitive."
+        },
+        {
+            "word": "spiderweb strand",
+            "synonym": "silk thread",
+            "definition": "a single thin thread of silk that comes from a spider's web",
+            "example": "The sculpture was crafted using a delicate spiderweb strand."
+        },
+        {
+            "word": "put on",
+            "synonym": "organize",
+            "definition": "to arrange or perform an event or show",
+            "example": "She put on puppet shows dramatizing Puerto Rican folktales."
+        },
+        {
+            "word": "puppet show",
+            "synonym": "marionette performance",
+            "definition": "a performance using puppets to tell a story",
+            "example": "Children loved watching the puppet show at the library."
+        },
+        {
+            "word": "erratically",
+            "synonym": "unpredictably",
+            "definition": "in a way that is irregular, inconsistent, or unpredictable",
+            "example": "Moths fly erratically around light sources at night."
+        },
+        {
+            "word": "reorient",
+            "synonym": "adjust",
+            "definition": "to change the position, direction, or focus of something",
+            "example": "Moths continually try to reorient their bodies while flying near lights."
+        },
+        {
+            "word": "behavioral",
+            "synonym": "conduct-related",
+            "definition": "relating to the actions or reactions of people or animals in response to external or internal stimuli",
+            "example": "Behavioral economists study how people actually make economic decisions."
+        },
+        {
+            "word": "irrational",
+            "synonym": "illogical",
+            "definition": "not based on reason or logic",
+            "example": "People sometimes make irrational economic decisions that defy standard theory."
+        },
+        {
+            "word": "anomaly",
+            "synonym": "irregularity",
+            "definition": "something that deviates from what is standard, normal, or expected",
+            "example": "Milkman's research addresses anomalies that standard economic models cannot explain."
+        },
+        {
+            "word": "neoclassical",
+            "synonym": "modern classical",
+            "definition": "relating to an economic theory that assumes rational decision-making and market efficiency",
+            "example": "Neoclassical economic models assume that people are consistently rational."
+        },
+        {
+            "word": "model",
+            "synonym": "framework",
+            "definition": "a simplified representation used to explain or predict behavior or outcomes",
+            "example": "Economic models help economists predict how people respond to incentives."
+        },
+        {
+            "word": "underlie",
+            "synonym": "form the basis of",
+            "definition": "to be the cause, basis, or foundation of something",
+            "example": "Cultural frameworks underlie each emotional reaction a person has."
+        },
+        {
+            "word": "at length",
+            "synonym": "in detail",
+            "definition": "in a thorough or detailed manner",
+            "example": "Hochschild explored the concept at length in her book."
+        },
+        {
+            "word": "ideological",
+            "synonym": "philosophical",
+            "definition": "relating to a system of ideas or beliefs, especially political or cultural",
+            "example": "Her study examined the ideological frameworks shaping emotions."
+        },
+        {
+            "word": "framework",
+            "synonym": "structure",
+            "definition": "a basic structure underlying a system, concept, or text",
+            "example": "Social and cultural frameworks influence behavior."
+        },
+        {
+            "word": "internalize",
+            "synonym": "assimilate",
+            "definition": "to incorporate beliefs, attitudes, or norms into one's own thinking",
+            "example": "People internalize cultural norms through socialization."
+        },
+        {
+            "word": "affiliation",
+            "synonym": "association",
+            "definition": "the state of being officially attached to a group or organization",
+            "example": "Political affiliation can shape emotional responses."
+        },
+        {
+            "word": "spate",
+            "synonym": "series",
+            "definition": "a large number or sudden outburst of something, usually negative",
+            "example": "After a spate of illnesses as a child, Wilma Rudolph was told she might never walk again."
+        },
+        {
+            "word": "defy",
+            "synonym": "resist",
+            "definition": "to openly resist or refuse to obey",
+            "example": "Defying all odds, Rudolph became a champion athlete."
+        },
+        {
+            "word": "odd",
+            "synonym": "improbable",
+            "definition": "something unusual or unlikely to happen",
+            "example": "She overcame all odds to achieve greatness."
+        },
+        {
+            "word": "dash",
+            "synonym": "sprint",
+            "definition": "a short, fast race or run",
+            "example": "Rudolph won both the 100- and 200-meter dashes."
+        },
+        {
+            "word": "clinch",
+            "synonym": "secure",
+            "definition": "to succeed in achieving or winning something",
+            "example": "She clinched first place for her team in the relay."
+        },
+        {
+            "word": "relay",
+            "synonym": "team race",
+            "definition": "a race in which members of a team take turns running parts of the total distance",
+            "example": "The 4x100-meter relay is a famous track event."
+        },
+        {
+            "word": "speculative",
+            "synonym": "conjectural",
+            "definition": "based on guesswork or incomplete evidence rather than certainty",
+            "example": "The interpretations of Thereus's color are ultimately speculative."
+        },
+        {
+            "word": "incidental",
+            "synonym": "secondary",
+            "definition": "occurring as a minor or secondary effect, not essential",
+            "example": "The gray coloration may be an incidental effect of radiation."
+        },
+        {
+            "word": "makeup",
+            "synonym": "composition",
+            "definition": "the physical structure, components, or constitution of something",
+            "example": "Scientists study the makeup of outer solar system objects."
         }
     ]
 }
