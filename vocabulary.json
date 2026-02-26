@@ -782,12 +782,7 @@
         }
     ],
     "02/22/2026": [
-        {
-            "word": "cellular material",
-            "synonym": "biological matter",
-            "definition": "substance originating from cells of a living organism",
-            "example": "Scientists examined the cellular material under a microscope."
-        },
+        
         {
             "word": "shed",
             "synonym": "discard",
@@ -811,18 +806,6 @@
             "synonym": "eponymous",
             "definition": "having the same name as the title of a work",
             "example": "The titular hero appears in the opening scene of the novel."
-        },
-        {
-            "word": "narrative",
-            "synonym": "storyline",
-            "definition": "a spoken or written account of connected events",
-            "example": "The film follows a nonlinear narrative."
-        },
-        {
-            "word": "place (in context)",
-            "synonym": "situate",
-            "definition": "to position something within a particular setting or framework",
-            "example": "The historian places the discovery within a broader political framework."
         },
         {
             "word": "the context of",
@@ -897,24 +880,6 @@
             "example": "She counts herself among the supporters of the new policy."
         },
         {
-            "word": "temperate environment",
-            "synonym": "moderate climate",
-            "definition": "a region characterized by mild temperatures without extreme heat or cold",
-            "example": "Many deciduous trees thrive in a temperate environment."
-        },
-        {
-            "word": "engineered structures",
-            "synonym": "designed constructions",
-            "definition": "structures that are intentionally designed and built to achieve specific mechanical or functional properties",
-            "example": "Bridges are engineered structures built to support heavy loads."
-        },
-        {
-            "word": "uniquely",
-            "synonym": "distinctively",
-            "definition": "in a way that is unlike anything else; in a singular manner",
-            "example": "The device is uniquely designed to operate in extreme conditions."
-        },
-        {
             "word": "cohesive",
             "synonym": "unified",
             "definition": "forming a united and well-integrated whole",
@@ -961,18 +926,6 @@
             "synonym": "stimulate",
             "definition": "to encourage or prompt an action or development",
             "example": "The discovery spurred further scientific investigation."
-        },
-        {
-            "word": "geodetic",
-            "synonym": "earth-measurement related",
-            "definition": "relating to the science of measuring and understanding Earth's geometric shape and gravitational field",
-            "example": "Geodetic surveys are used to create accurate maps."
-        },
-        {
-            "word": "orbit",
-            "synonym": "revolve around",
-            "definition": "to move in a curved path around a celestial object due to gravity",
-            "example": "The Earth orbits the Sun once every 365 days."
         },
         {
             "word": "in exile",
@@ -1023,22 +976,10 @@
             "example": "The poet's spare language creates a vivid image with few words."
         },
         {
-            "word": "earn praise",
-            "synonym": "receive acclaim",
-            "definition": "to gain approval or admiration from others",
-            "example": "Her innovative research earned praise from scientists worldwide."
-        },
-        {
             "word": "luminous",
             "synonym": "radiant",
             "definition": "emitting or reflecting light; shining; clear and enlightening",
             "example": "The poem's luminous imagery left a lasting impression on readers."
-        },
-        {
-            "word": "supplier",
-            "synonym": "provider",
-            "definition": "a person or company that provides goods or services",
-            "example": "The city has multiple electricity suppliers."
         },
         {
             "word": "municipality",
@@ -1088,59 +1029,12 @@
             "definition": "the gradual collection or increase of material or substance",
             "example": "The buildup of sediment can change the shape of riverbanks."
         },
-        {
-            "word": "spectacular",
-            "synonym": "striking",
-            "definition": "visually impressive or dramatic",
-            "example": "The fireworks display was truly spectacular."
-        },
-        {
-            "word": "lightning storm",
-            "synonym": "thunderstorm",
-            "definition": "a weather event involving electrical discharges (lightning) and typically thunder",
-            "example": "The lightning storm lit up the night sky."
-        },
+        
         {
             "word": "localized",
             "synonym": "limited to a specific area",
             "definition": "confined or restricted to a particular place",
             "example": "The localized flooding affected only a few streets."
-        },
-        {
-            "word": "ratio",
-            "synonym": "proportion",
-            "definition": "a relationship between two quantities showing how many times one value contains or is contained within the other",
-            "example": "The ratio of choruses to verses increased over time."
-        },
-        {
-            "word": "chorus",
-            "synonym": "refrain",
-            "definition": "the repeated part of a song that usually contains the main message",
-            "example": "The chorus is repeated several times in the song."
-        },
-        {
-            "word": "verse",
-            "synonym": "stanza",
-            "definition": "a section of a song with different lyrics that usually tells part of the story",
-            "example": "Each verse adds new details to the song."
-        },
-        {
-            "word": "trend",
-            "synonym": "pattern",
-            "definition": "a general direction in which something is developing or changing",
-            "example": "There is a growing trend toward shorter songs."
-        },
-        {
-            "word": "repetitive",
-            "synonym": "redundant",
-            "definition": "containing repeated elements or happening again and again in the same way",
-            "example": "Some critics argue that modern lyrics are too repetitive."
-        },
-        {
-            "word": "spiderweb strand",
-            "synonym": "silk thread",
-            "definition": "a single thin thread of silk that comes from a spider's web",
-            "example": "The sculpture was crafted using a delicate spiderweb strand."
         },
         {
             "word": "put on",
@@ -1149,28 +1043,10 @@
             "example": "She put on puppet shows dramatizing Puerto Rican folktales."
         },
         {
-            "word": "puppet show",
-            "synonym": "marionette performance",
-            "definition": "a performance using puppets to tell a story",
-            "example": "Children loved watching the puppet show at the library."
-        },
-        {
             "word": "erratically",
             "synonym": "unpredictably",
             "definition": "in a way that is irregular, inconsistent, or unpredictable",
             "example": "Moths fly erratically around light sources at night."
-        },
-        {
-            "word": "reorient",
-            "synonym": "adjust",
-            "definition": "to change the position, direction, or focus of something",
-            "example": "Moths continually try to reorient their bodies while flying near lights."
-        },
-        {
-            "word": "behavioral",
-            "synonym": "conduct-related",
-            "definition": "relating to the actions or reactions of people or animals in response to external or internal stimuli",
-            "example": "Behavioral economists study how people actually make economic decisions."
         },
         {
             "word": "irrational",
@@ -1184,18 +1060,7 @@
             "definition": "something that deviates from what is standard, normal, or expected",
             "example": "Milkman's research addresses anomalies that standard economic models cannot explain."
         },
-        {
-            "word": "neoclassical",
-            "synonym": "modern classical",
-            "definition": "relating to an economic theory that assumes rational decision-making and market efficiency",
-            "example": "Neoclassical economic models assume that people are consistently rational."
-        },
-        {
-            "word": "model",
-            "synonym": "framework",
-            "definition": "a simplified representation used to explain or predict behavior or outcomes",
-            "example": "Economic models help economists predict how people respond to incentives."
-        },
+        
         {
             "word": "underlie",
             "synonym": "form the basis of",
