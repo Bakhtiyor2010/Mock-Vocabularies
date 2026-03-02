@@ -782,7 +782,6 @@
         }
     ],
     "02/22/2026": [
-        
         {
             "word": "shed",
             "synonym": "discard",
@@ -1029,7 +1028,6 @@
             "definition": "the gradual collection or increase of material or substance",
             "example": "The buildup of sediment can change the shape of riverbanks."
         },
-        
         {
             "word": "localized",
             "synonym": "limited to a specific area",
@@ -1060,7 +1058,6 @@
             "definition": "something that deviates from what is standard, normal, or expected",
             "example": "Milkman's research addresses anomalies that standard economic models cannot explain."
         },
-        
         {
             "word": "underlie",
             "synonym": "form the basis of",
@@ -1150,6 +1147,242 @@
             "synonym": "composition",
             "definition": "the physical structure, components, or constitution of something",
             "example": "Scientists study the makeup of outer solar system objects."
+        }
+    ],
+    "03/01/2026": [
+        {
+            "word": "gospel",
+            "synonym": "spiritual",
+            "definition": "a style of Christian religious music known for strong emotion, powerful vocals, and themes of faith",
+            "example": "She began her career as a gospel musician before influencing rock ’n’ roll."
+        },
+        {
+            "word": "passionate",
+            "synonym": "intense",
+            "definition": "showing strong feelings, enthusiasm, or deep emotion",
+            "example": "Her passionate performances made audiences feel both sorrow and joy."
+        },
+        {
+            "word": "custom fit",
+            "synonym": "tailor-made",
+            "definition": "made specifically to match the measurements and needs of an individual person",
+            "example": "The costume was custom fit to ensure it perfectly suited the actor."
+        },
+        {
+            "word": "reignite",
+            "synonym": "rekindle",
+            "definition": "to start something again after it has stopped, especially a fire or strong emotion",
+            "example": "In the film, astronauts attempt to reignite the dying Sun."
+        },
+        {
+            "word": "ungainliness",
+            "synonym": "awkwardness",
+            "definition": "the quality of being clumsy, heavy, or lacking grace in movement or appearance",
+            "example": "The bulky suit added to the ungainliness of the character’s movements."
+        },
+        {
+            "word": "ripple",
+            "synonym": "wave",
+            "definition": "a small wave or disturbance that spreads outward from a central point",
+            "example": "Gravitational waves are ripples in space-time caused by massive cosmic events."
+        },
+        {
+            "word": "unaccounted-for",
+            "synonym": "unexplained",
+            "definition": "not yet explained, identified, or included in calculations",
+            "example": "Scientists investigated the unaccounted-for oxygen to determine its source."
+        },
+        {
+            "word": "landmass",
+            "synonym": "continent",
+            "definition": "a large continuous area of land, such as a continent or large region",
+            "example": "Al-Biruni theorized that a vast landmass existed beyond the known boundaries of Europe."
+        },
+        {
+            "word": "gold rush era",
+            "synonym": "period of rapid migration for gold",
+            "definition": "a historical period marked by mass migration and economic activity due to the discovery of gold, especially in mid-19th-century California",
+            "example": "During the gold rush era, many entrepreneurs built fortunes in California."
+        },
+        {
+            "word": "carrier",
+            "synonym": "transport company",
+            "definition": "a company or service responsible for transporting passengers or goods",
+            "example": "The court ruled that the carrier could not deny passengers service based on race."
+        },
+        {
+            "word": "breadth",
+            "synonym": "scope",
+            "definition": "the extent or range of something; width or comprehensiveness",
+            "example": "Given the breadth of the collection, the exhibition provided a thorough overview of photography."
+        },
+        {
+            "word": "stroke",
+            "synonym": "swimming style",
+            "definition": "a method of moving the arms and legs in swimming to propel the body through water",
+            "example": "The swimmer performed the butterfly stroke with perfect technique."
+        },
+        {
+            "word": "sport",
+            "synonym": "wear",
+            "definition": "to display or wear something with pride",
+            "example": "The swimmer sported rainbow-striped goggles."
+        },
+        {
+            "word": "rainbow-striped",
+            "synonym": "multicolored",
+            "definition": "having stripes of colors arranged like a rainbow",
+            "example": "She wore rainbow-striped goggles in the painting."
+        },
+        {
+            "word": "goggle",
+            "synonym": "eye protection",
+            "definition": "a protective or specialized lens worn over the eyes, often in swimming or science",
+            "example": "The swimmer adjusted her goggles before diving in."
+        },
+        {
+            "word": "rainbow-hued",
+            "synonym": "multicolored",
+            "definition": "having colors similar to those of a rainbow",
+            "example": "The rainbow-hued swimmer leapt gracefully through the water."
+        },
+        {
+            "word": "splash",
+            "synonym": "spatter",
+            "definition": "to cause liquid to scatter and fall in drops",
+            "example": "The swimmer splashes through the water, creating a vivid effect in the painting."
+        },
+        {
+            "word": "duck-billed",
+            "synonym": "platypus-shaped",
+            "definition": "having a bill or snout shaped like a duck’s",
+            "example": "The duck-billed platypus has a distinctive flat snout for catching prey."
+        },
+        {
+            "word": "beaver-tailed",
+            "synonym": "flat-tailed",
+            "definition": "having a broad, flat tail resembling that of a beaver",
+            "example": "Its beaver-tailed body helps it swim efficiently."
+        },
+        {
+            "word": "defied",
+            "synonym": "resisted",
+            "definition": "to resist or challenge categorization, expectation, or norm",
+            "example": "The platypus defied classification when first discovered."
+        },
+        {
+            "word": "bird-snout",
+            "synonym": "duck-like bill",
+            "definition": "a beak or snout resembling that of a bird",
+            "example": "Its bird-snout puzzled early scientists."
+        },
+        {
+            "word": "rooftop",
+            "synonym": "roof surface",
+            "definition": "the top surface of a building, exposed to sunlight and weather",
+            "example": "Dark rooftops absorb heat more than lighter ones."
+        },
+        {
+            "word": "prefabricated",
+            "synonym": "pre-made",
+            "definition": "manufactured in advance, usually in standard sections, for easy assembly on site",
+            "example": "The prefabricated reflective sheets were installed quickly on the roof."
+        },
+        {
+            "word": "intervening",
+            "synonym": "elapsed",
+            "definition": "occurring or existing between two points in time or events",
+            "example": "During the intervening 250 years, Donne's works had largely been forgotten."
+        },
+        {
+            "word": "reprogram",
+            "synonym": "reconfigure",
+            "definition": "to alter the instructions or functioning of a system, device, or molecule",
+            "example": "The scientists reprogrammed the genetic scissors to target specific DNA sequences."
+        },
+        {
+            "word": "cleaving",
+            "synonym": "cutting",
+            "definition": "splitting or severing something, often a molecule or chemical bond",
+            "example": "DNA-cleaving bacteria produce enzymes that can cut genetic material precisely."
+        },
+        {
+            "word": "forge",
+            "synonym": "create",
+            "definition": "to form, shape, or create something, often with effort or skill",
+            "example": "The researchers used CRISPR to forge a powerful new genetic tool."
+        },
+        {
+            "word": "tensile",
+            "synonym": "stretching",
+            "definition": "relating to the ability of a material to withstand pulling or stretching forces",
+            "example": "Lin Zhi increased the tensile strength of silkworm silk."
+        },
+        {
+            "word": "dissolve",
+            "synonym": "liquefy",
+            "definition": "to cause a solid to mix into a liquid and form a solution",
+            "example": "The silk was dissolved in a solution of iron, zinc, and sugar."
+        },
+        {
+            "word": "reweave",
+            "synonym": "reconstruct",
+            "definition": "to weave again or reorganize fibers into a new structure",
+            "example": "Zhi reweaved the silk to enhance its mechanical properties."
+        },
+        {
+            "word": "solution",
+            "synonym": "mixture",
+            "definition": "a homogeneous mixture of two or more substances",
+            "example": "The silk was treated in a solution of iron ions and sugar."
+        },
+        {
+            "word": "compile",
+            "synonym": "collect",
+            "definition": "to gather information from different sources and organize it into one document or data set",
+            "example": "The researchers compiled data from multiple ocean studies conducted over twenty years."
+        },
+        {
+            "word": "ocean mixing rate",
+            "synonym": "water circulation rate",
+            "definition": "the speed at which different layers of ocean water blend due to currents and turbulence",
+            "example": "A higher ocean mixing rate can distribute heat more evenly across regions."
+        },
+        {
+            "word": "novel",
+            "synonym": "innovative",
+            "definition": "new and original; not previously used or discovered",
+            "example": "The team created a novel data set by combining measurements from various sources."
+        },
+        {
+            "word": "current-driven",
+            "synonym": "flow-induced",
+            "definition": "caused or influenced by ocean currents",
+            "example": "Current-driven mixing plays a major role in transporting nutrients."
+        },
+        {
+            "word": "distribution",
+            "synonym": "allocation",
+            "definition": "the way something is spread or arranged over an area",
+            "example": "Ocean currents affect the distribution of heat and nutrients worldwide."
+        },
+        {
+            "word": "tribal",
+            "synonym": "indigenous",
+            "definition": "relating to a group of people belonging to the same tribe or indigenous community",
+            "example": "The NCAI was founded by representatives of fifty tribal governments."
+        },
+        {
+            "word": "sovereignty",
+            "synonym": "autonomy",
+            "definition": "the authority of a group or state to govern itself without outside interference",
+            "example": "The NCAI was created to protect the sovereignty of Indigenous tribes."
+        },
+        {
+            "word": "advocacy",
+            "synonym": "support",
+            "definition": "the act of supporting, promoting, or arguing for a cause or policy",
+            "example": "The NCAI's advocacy was key to the passing of Public Law 96-638."
         }
     ]
 }
