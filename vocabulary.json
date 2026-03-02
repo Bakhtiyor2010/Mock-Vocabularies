@@ -1383,6 +1383,144 @@
             "synonym": "support",
             "definition": "the act of supporting, promoting, or arguing for a cause or policy",
             "example": "The NCAI's advocacy was key to the passing of Public Law 96-638."
+        },
+        {
+            "word": "tidal",
+            "synonym": "gravitational",
+            "definition": "Relating to the gravitational forces exerted by one celestial body on another, often causing deformation or disruption.",
+            "example": "Intense tidal forces caused the moon to disintegrate as it approached the planet."
+        },
+        {
+            "word": "recount",
+            "synonym": "narrate",
+            "definition": "To describe or report events in a detailed and sequential manner.",
+            "example": "The researcher recounted the events that led to the formation of Saturn’s rings."
+        },
+        {
+            "word": "hypothesis",
+            "synonym": "theory",
+            "definition": "A tentative explanation or proposed idea that is subject to testing and verification.",
+            "example": "The scientists developed a hypothesis to explain the origin of the rings."
+        },
+        {
+            "word": "clutch",
+            "synonym": "brood",
+            "definition": "A group of eggs laid by a bird or reptile at one time.",
+            "example": "The lizard laid a clutch of ten eggs during the breeding season."
+        },
+        {
+            "word": "latitude",
+            "synonym": "geographic distance",
+            "definition": "The distance north or south of the equator, measured in degrees.",
+            "example": "Regions at higher latitude often experience colder climates and greater seasonal change."
+        },
+        {
+            "word": "nuclear fusion reaction",
+            "synonym": "atomic fusion",
+            "definition": "A process in which two light atomic nuclei combine to form a heavier nucleus, releasing a large amount of energy.",
+            "example": "A nuclear fusion reaction powers the Sun by combining hydrogen atoms into helium."
+        },
+        {
+            "word": "that said",
+            "synonym": "however",
+            "definition": "A transitional phrase used to introduce a contrasting or limiting statement.",
+            "example": "Fusion has great potential; that said, it has been difficult to achieve net energy gain in laboratories."
+        },
+        {
+            "word": "net energy gain",
+            "synonym": "energy surplus",
+            "definition": "A condition in which a system produces more energy than it consumes.",
+            "example": "Scientists achieved net energy gain when the fusion reaction produced more energy than was used to start it."
+        },
+        {
+            "word": "upon",
+            "synonym": "immediately after",
+            "definition": "Indicating something happening right after a particular event or moment.",
+            "example": "Upon entering the gallery, she was amazed by the paintings."
+        },
+        {
+            "word": "approaching",
+            "synonym": "coming near",
+            "definition": "Moving closer to someone or something in distance or time.",
+            "example": "The students were approaching the museum when it started to rain."
+        },
+        {
+            "word": "cobblestone",
+            "synonym": "paving stone",
+            "definition": "A naturally rounded stone used for paving streets.",
+            "example": "The old town had streets paved with cobblestones."
+        },
+        {
+            "word": "life-sized",
+            "synonym": "real-size",
+            "definition": "Having the same size as the real object or person.",
+            "example": "The museum displayed a life-sized statue of the king."
+        },
+        {
+            "word": "expertly",
+            "synonym": "skillfully",
+            "definition": "Done with a high level of skill or proficiency.",
+            "example": "The artist expertly blended colors to create a realistic portrait."
+        },
+        {
+            "word": "perspective",
+            "synonym": "viewpoint",
+            "definition": "An artistic technique used to represent three-dimensional objects on a two-dimensional surface to create an illusion of depth.",
+            "example": "The painter used perspective to make the city streets look realistic."
+        },
+        {
+            "word": "foodway",
+            "synonym": "dietary practice",
+            "definition": "A cultural or regional pattern of food production, preparation, and consumption.",
+            "example": "Colonial foodways included local grains, meat, and preserved vegetables."
+        },
+        {
+            "word": "spiking",
+            "synonym": "surging",
+            "definition": "Rising sharply in amount or level.",
+            "example": "Consumer demand for wheat was spiking after the Revolutionary War."
+        },
+        {
+            "word": "peninsula",
+            "synonym": "landform",
+            "definition": "A piece of land almost entirely surrounded by water but connected to the mainland on one side.",
+            "example": "Baja California is a peninsula south of the US state of California."
+        },
+        {
+            "word": "supernova",
+            "synonym": "stellar explosion",
+            "definition": "A powerful and luminous explosion of a star at the end of its life cycle.",
+            "example": "Supernovas release massive amounts of energy and can trigger the formation of new stars."
+        },
+        {
+            "word": "interstellar cloud",
+            "synonym": "nebula",
+            "definition": "A region of gas and dust in space between stars where new stars can form.",
+            "example": "The Local Bubble trapped interstellar clouds, which eventually collapsed to form new stars."
+        },
+        {
+            "word": "strip",
+            "synonym": "band",
+            "definition": "A long, narrow piece of material, such as wood or fabric.",
+            "example": "The sculpture was made from a curved strip of wood."
+        },
+        {
+            "word": "agency",
+            "synonym": "empowerment",
+            "definition": "The capacity of individuals or groups to act independently and make choices.",
+            "example": "The artist’s work explores themes of women’s power and agency in society."
+        },
+        {
+            "word": "mild",
+            "synonym": "gentle",
+            "definition": "Not strong or intense in flavor, effect, or character.",
+            "example": "The stew had a mild taste, making it pleasant and soothing."
+        },
+        {
+            "word": "diner",
+            "synonym": "restaurant patron",
+            "definition": "A person who is eating a meal, especially at a restaurant or public place.",
+            "example": "Ancient diners may have eaten the stew for its relaxing effects."
         }
     ]
 }
