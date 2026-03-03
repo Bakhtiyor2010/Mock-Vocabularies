@@ -1163,12 +1163,6 @@
             "example": "Her passionate performances made audiences feel both sorrow and joy."
         },
         {
-            "word": "custom fit",
-            "synonym": "tailor-made",
-            "definition": "made specifically to match the measurements and needs of an individual person",
-            "example": "The costume was custom fit to ensure it perfectly suited the actor."
-        },
-        {
             "word": "reignite",
             "synonym": "rekindle",
             "definition": "to start something again after it has stopped, especially a fire or strong emotion",
@@ -1193,22 +1187,10 @@
             "example": "Scientists investigated the unaccounted-for oxygen to determine its source."
         },
         {
-            "word": "landmass",
-            "synonym": "continent",
-            "definition": "a large continuous area of land, such as a continent or large region",
-            "example": "Al-Biruni theorized that a vast landmass existed beyond the known boundaries of Europe."
-        },
-        {
             "word": "gold rush era",
             "synonym": "period of rapid migration for gold",
             "definition": "a historical period marked by mass migration and economic activity due to the discovery of gold, especially in mid-19th-century California",
             "example": "During the gold rush era, many entrepreneurs built fortunes in California."
-        },
-        {
-            "word": "carrier",
-            "synonym": "transport company",
-            "definition": "a company or service responsible for transporting passengers or goods",
-            "example": "The court ruled that the carrier could not deny passengers service based on race."
         },
         {
             "word": "breadth",
@@ -1229,22 +1211,10 @@
             "example": "The swimmer sported rainbow-striped goggles."
         },
         {
-            "word": "rainbow-striped",
-            "synonym": "multicolored",
-            "definition": "having stripes of colors arranged like a rainbow",
-            "example": "She wore rainbow-striped goggles in the painting."
-        },
-        {
             "word": "goggle",
             "synonym": "eye protection",
             "definition": "a protective or specialized lens worn over the eyes, often in swimming or science",
             "example": "The swimmer adjusted her goggles before diving in."
-        },
-        {
-            "word": "rainbow-hued",
-            "synonym": "multicolored",
-            "definition": "having colors similar to those of a rainbow",
-            "example": "The rainbow-hued swimmer leapt gracefully through the water."
         },
         {
             "word": "splash",
@@ -1325,12 +1295,6 @@
             "example": "The silk was dissolved in a solution of iron, zinc, and sugar."
         },
         {
-            "word": "reweave",
-            "synonym": "reconstruct",
-            "definition": "to weave again or reorganize fibers into a new structure",
-            "example": "Zhi reweaved the silk to enhance its mechanical properties."
-        },
-        {
             "word": "solution",
             "synonym": "mixture",
             "definition": "a homogeneous mixture of two or more substances",
@@ -1347,24 +1311,6 @@
             "synonym": "water circulation rate",
             "definition": "the speed at which different layers of ocean water blend due to currents and turbulence",
             "example": "A higher ocean mixing rate can distribute heat more evenly across regions."
-        },
-        {
-            "word": "novel",
-            "synonym": "innovative",
-            "definition": "new and original; not previously used or discovered",
-            "example": "The team created a novel data set by combining measurements from various sources."
-        },
-        {
-            "word": "current-driven",
-            "synonym": "flow-induced",
-            "definition": "caused or influenced by ocean currents",
-            "example": "Current-driven mixing plays a major role in transporting nutrients."
-        },
-        {
-            "word": "distribution",
-            "synonym": "allocation",
-            "definition": "the way something is spread or arranged over an area",
-            "example": "Ocean currents affect the distribution of heat and nutrients worldwide."
         },
         {
             "word": "tribal",
@@ -1415,22 +1361,10 @@
             "example": "Regions at higher latitude often experience colder climates and greater seasonal change."
         },
         {
-            "word": "nuclear fusion reaction",
-            "synonym": "atomic fusion",
-            "definition": "A process in which two light atomic nuclei combine to form a heavier nucleus, releasing a large amount of energy.",
-            "example": "A nuclear fusion reaction powers the Sun by combining hydrogen atoms into helium."
-        },
-        {
             "word": "that said",
             "synonym": "however",
             "definition": "A transitional phrase used to introduce a contrasting or limiting statement.",
             "example": "Fusion has great potential; that said, it has been difficult to achieve net energy gain in laboratories."
-        },
-        {
-            "word": "net energy gain",
-            "synonym": "energy surplus",
-            "definition": "A condition in which a system produces more energy than it consumes.",
-            "example": "Scientists achieved net energy gain when the fusion reaction produced more energy than was used to start it."
         },
         {
             "word": "upon",
@@ -1439,28 +1373,10 @@
             "example": "Upon entering the gallery, she was amazed by the paintings."
         },
         {
-            "word": "approaching",
-            "synonym": "coming near",
-            "definition": "Moving closer to someone or something in distance or time.",
-            "example": "The students were approaching the museum when it started to rain."
-        },
-        {
             "word": "cobblestone",
             "synonym": "paving stone",
             "definition": "A naturally rounded stone used for paving streets.",
             "example": "The old town had streets paved with cobblestones."
-        },
-        {
-            "word": "life-sized",
-            "synonym": "real-size",
-            "definition": "Having the same size as the real object or person.",
-            "example": "The museum displayed a life-sized statue of the king."
-        },
-        {
-            "word": "expertly",
-            "synonym": "skillfully",
-            "definition": "Done with a high level of skill or proficiency.",
-            "example": "The artist expertly blended colors to create a realistic portrait."
         },
         {
             "word": "perspective",
@@ -1515,12 +1431,6 @@
             "synonym": "gentle",
             "definition": "Not strong or intense in flavor, effect, or character.",
             "example": "The stew had a mild taste, making it pleasant and soothing."
-        },
-        {
-            "word": "diner",
-            "synonym": "restaurant patron",
-            "definition": "A person who is eating a meal, especially at a restaurant or public place.",
-            "example": "Ancient diners may have eaten the stew for its relaxing effects."
         }
     ]
 }
